@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome!
+
+I'm Ruoyu, a first year student studying computer science at Nanyang Technological University, Singapore. You can learn more about me at my personal site https://ruoyu.xyz/.
+
+If you want to share ideas with me, please feel free to reach me. Thanks!
 
 <!--
 **ZhongRuoyu/ZhongRuoyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
