@@ -1,6 +1,6 @@
 ### Welcome!
 
-I'm Ruoyu, a first year student studying computer science at Nanyang Technological University, Singapore. You can learn more about me at my personal site https://ruoyu.xyz/.
+I'm Ruoyu, a first year student studying computer science at Nanyang Technological University, Singapore. You can learn more about me at my personal site https://ruoyu.xyz.
 
 If you want to share ideas with me, please feel free to reach me. Thanks!
 
